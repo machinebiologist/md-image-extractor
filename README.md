@@ -2,7 +2,7 @@
 
 This repository contains a Python script that extracts base64 embedded images from a markdown file, saves them to disk as binary images, and outputs a modified version of the markdown file with references to the new image files.
 
-The script supports output with both the standard markdown image embed format (`!(alt text)[filename.png]`) and Obsidian markdown image embed format (`![[image_name.png]]`)
+The script supports output with both the standard markdown image embed format (`!(alt text)[filename.png]`) and with Obsidian's markdown image embed format (`![[image_name.png]]`)
 
 ## Usage
 
